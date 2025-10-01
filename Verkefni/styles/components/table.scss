@@ -1,0 +1,19 @@
+.table-wrapper {
+    overflow-x: auto;
+}
+
+table {
+    margin-bottom: var(--spacing);
+    border-spacing: 0;
+    width: 100%;
+}
+
+table th,
+table td {
+    padding: calc(var(--spacing) / 2);
+    text-align: left;
+}
+
+table tbody tr:nth-child(2n + 1) {
+    background-color: var(--color-accent);
+}
