@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7740abc2-557a-460b-ada3-3690b6d84ce9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Verkefni/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Verkefni/package-lock.json" beforeDir="false" />
-    </list>
+    <list default="true" id="7740abc2-557a-460b-ada3-3690b6d84ce9" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1759351362195</updated>
       <workItem from="1759351363368" duration="136000" />
-      <workItem from="1759351605925" duration="551000" />
+      <workItem from="1759351605925" duration="966000" />
     </task>
     <servers />
   </component>
